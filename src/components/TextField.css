@@ -1,0 +1,12 @@
+.text-field
+{
+
+}
+
+.text-field textarea
+{
+    width: 70%;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+
